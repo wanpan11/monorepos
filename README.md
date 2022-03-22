@@ -1,0 +1,2 @@
+# monorepos
+lerna、yarn workspaces
